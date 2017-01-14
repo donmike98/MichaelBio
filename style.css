@@ -36,21 +36,20 @@ nav ul li:hover {
     padding: 5px;
 }
 
-.content img
-{
-  float: right;
-  width: 300;
-}
-
-
 .content article{
 float: left;
 width: 600px;
 }
+.content ul img
+{
+  float: right;
+  width: 600px;
+}
+]
 .content ul
 {
   float: right;
-  width: 250px;
+  width: 600px;
   background: blue;
   padding: 20px;
   border-radius: 5px;
