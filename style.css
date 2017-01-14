@@ -37,11 +37,11 @@ nav ul li:hover {
 }
 .content article{
   float: left;;
-  width: 400px;
+  width: 600px;
 }
 .content ul{
 float: left;
-width: 600px;
+width: 200px;
 }
 
 .content ul
