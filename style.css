@@ -35,9 +35,9 @@ nav ul li:hover {
     background-color: blue;
     padding: 5px;
 }
-.content{
+.content article{
 float: left;
-width: auto; 600px;
+width: 600px;
 }
 .content ul
 {
