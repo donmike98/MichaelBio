@@ -35,28 +35,19 @@ nav ul li:hover {
     background-color: blue;
     padding: 5px;
 }
-
 .content article{
-float: left;
-width: 600px;
-}
-.content ul img
-{
-  float: right;
+  float: left;;
   width: 600px;
 }
-]
+.content ul{
+float: left;
+width: 650px;
+}
+
 .content ul
 {
   float: right;
-  width: 600px;
-  background: blue;
-  padding: 20px;
-  border-radius: 5px;
-  list-style: none;
-}
-.content ul li
-{
-  color: White;
-  margin-bottom: 5px;
+  width: 300px;
+
+
 }
