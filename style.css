@@ -35,3 +35,21 @@ nav ul li:hover {
     background-color: blue;
     padding: 5px;
 }
+.content{
+float: left;
+width: auto; 600px;
+}
+.content ul
+{
+  float: right;
+  width: 250px;
+  background: blue
+  padding: 20px;
+  border-radius: 5px;
+  list-style: none;
+}
+.content ul li
+{
+  color: blue;
+  margin-bottom: 5px;
+}
