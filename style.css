@@ -48,6 +48,8 @@ nav ul li:hover {
     width: 600px;
 }
 .content article {
+    font-size: 22;
+    font-family: sans-serif;
     float: left;
     width: 900px;
 }
