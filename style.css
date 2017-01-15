@@ -43,17 +43,8 @@ nav ul li:hover {
     float: right;
     width: 500px;
 }
-.content article {
-    font-size: 18;
-    font-family: sans-serif;
-    float: right;
-    width: 1200px;
-}
+
 .content article{
   float: left;
-  width: 220px;
-}
-.content article{
-  float: left;
-  width: 220px;
+  width: 775px;
 }
