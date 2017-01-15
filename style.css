@@ -32,31 +32,22 @@ a {
 
 nav ul li {
     padding: 15px;
-    display: inline-block;
+    display: inline-block; 
 }
 
 nav ul li:hover {
     background-color: blue;
     padding: 5px;
 }
-
 .content article {
-    float: left;
+    float: right;
     width: 800px;
 }
-
-.content ul {
-    float: right;
-}
 .content article {
-    float: left;
-    width: 600px;
-}
-.content article {
-    font-size: 22;
+    font-size: 18;
     font-family: sans-serif;
-    float: left;
-    width: 900px;
+    float: right;
+    width: 1200px;
 }
 .content article{
   float: left;
