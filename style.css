@@ -20,8 +20,7 @@ nav ul {
     margin: 0;
 }
 
-a
-{
+a {
     text-decoration: none;
     color: white;
 }
@@ -35,10 +34,28 @@ nav ul li:hover {
     background-color: blue;
     padding: 5px;
 }
+
+.content article {
+    float: left;
+    width: 800px;
+}
+
+.content ul {
+    float: right;
+}
+.content article {
+    float: left;
+    width: 600px;
+}
+.content article {
+    float: left;
+    width: 800px;
+}
 .content article{
   float: left;
   width: 800px;
 }
-.content ul{
-  float: right;
+.content article{
+  float: left;
+  width: 800px;
 }
