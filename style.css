@@ -10,7 +10,12 @@ header {
     text-align: center;
     color: white;
 }
-
+footer{
+  background: blue;
+  padding: 20px 0;
+  text-align: left;
+  color: white;
+}
 nav ul {
     background-color: black;
     overflow: hidden;
